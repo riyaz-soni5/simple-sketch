@@ -1,5 +1,8 @@
-# simple-sketch
+# Simple Sketch Canvas
+A Canvas where you can make art and use your creativity. The canvas's size and color mode can also be change.
 
-All you need is a canvas and some colors,be a painter and let your creation shine!
+# Preview
+<img width="1911" height="991" alt="Screenshot 2025-07-28 at 12 58 06 PM" src="https://github.com/user-attachments/assets/0fd875ba-09da-4677-ba67-65558c511cf0" />
 
-<img width="1440" alt="Screenshot 2025-07-07 at 12 01 36 PM" src="https://github.com/user-attachments/assets/5a4bfee2-0507-4ef1-b803-d575ccf6d22f" />
+# Try it 
+[Sketch Canvas](https://riyaz-soni5.github.io/simple-sketch/)
